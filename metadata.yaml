@@ -1,0 +1,38 @@
+_repo: The-Chronicles-of-Enguerrand-de-Monstrelet-Vol-4-Containing-an-account-of-the-cruel-civil-war__52889
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Johnes, Thomas
+    birthdate: 1748
+    deathdate: 1816
+    gutenberg_agent_id: '46109'
+    url: http://www.gutenberg.org/2009/agents/46109
+creator:
+  author:
+    agent_name: Monstrelet, Enguerrand de
+    aliases:
+    - De Monstrelet, Enguerrand
+    - Monstrelet, Enguerran de
+    deathdate: 1453
+    gutenberg_agent_id: '46108'
+    url: http://www.gutenberg.org/2009/agents/46108
+description: ''
+gutenberg_issued: '2016-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History -- 476-1492 -- Sources'
+- !lcsh 'France -- History -- House of Valois, 1328-1589'
+- !lcsh 'Hundred Years'' War, 1339-1453'
+- GITenberg
+title: "The Chronicles of Enguerrand de Monstrelet, Vol. 4\r\nContaining an account\
+  \ of the cruel civil wars between the houses of Orleans and Burgundy, of the possession\
+  \ of Paris and Normandy by the English, their expulsion thence, and of other memorable\
+  \ events that happened in the kingdom of France, as well as in other countries"
+url: http://www.gutenberg.org/ebooks/52889
